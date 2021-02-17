@@ -1,0 +1,5 @@
+3.4) The DFT of a signal is comprised of N discrete samples of the 0-2pi discrete radian frequency window, or the sampling rate.  
+
+Here, resolution = samplingRate/N = samplingRate/(samplingRate*timeLength) = 1/timeLength = 1/0.5 = 2 Hz
+
+3.5) Zero-padding the input signal will increase the number of samples N of the DTFT, thereby decreasing the FFT resolution as described by the formula above.

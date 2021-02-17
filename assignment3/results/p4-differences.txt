@@ -1,0 +1,3 @@
+The most obvious difference is the magnitudes of the fundamental and harmonics of the rectangular windowed FFT is much greater in magnitude compared to that of the Hann window.  Also, the later harmonics of the Hann windowed FFT are marginally larger in proportion to the earlier harmonics + fundamental.  
+
+Otherwise, the shapes of the two plots are identical.
